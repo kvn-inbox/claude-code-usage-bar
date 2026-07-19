@@ -1,0 +1,9 @@
+{
+  "id": "claude-code-usage-bar",
+  "name": "Claude Code Usage Bar",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.5",
+  "description": "Shows your real Claude plan usage (session % and weekly % — same numbers as claude.ai Settings > Usage) live in the status bar. Reads the local Claude Code CLI OAuth token directly; works standalone, no dependency on any other Claude-related plugin.",
+  "author": "VK",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,4 @@
+.claude-usage-bar-item.claude-usage-warning {
+  color: var(--text-error);
+  font-weight: 600;
+}
