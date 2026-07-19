@@ -5,8 +5,10 @@
 An Obsidian plugin that shows your real Claude plan usage — session % and weekly % —
 live in the status bar. Same numbers as `claude.ai → Settings → Usage`.
 
+![Claude Code Usage Bar in Obsidian's status bar](docs/statusbar.png)
+
 ```
-Claude: 42% session · 18% week · 7% Fable
+Claude: 73% session · 45% week · 2% Fable
 ```
 
 ---
@@ -66,7 +68,7 @@ to claude.ai / Claude Code — it could change or break without notice. If you s
 `claude.ai → Settings → Usage`.
 
 ```
-Claude: 42% session · 18% week · 7% Fable
+Claude: 73% session · 45% week · 2% Fable
 ```
 
 ### Как это работает
